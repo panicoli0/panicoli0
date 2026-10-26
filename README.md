@@ -4,7 +4,7 @@ Hi 👋 My name is Pablo Nicoli
 Software Developer
 ------------------
 
-I was involved in projects like: https://app.mysquad.live/ https://www.sandbox.game/ https://www.voxedit.io/ ...and many more!
+I was involved in projects like: https://www.sandbox.game/ https://www.voxedit.io/ ...and many more!
 
 * 🌍  I'm based in the Planet Earth doing remote work
 * ✉️  You can contact me at [pablo.nicoli@hotmail.com](mailto:pablo.nicoli@hotmail.com)
